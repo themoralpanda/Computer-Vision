@@ -1,7 +1,9 @@
 Date: 19th Nov 2017
+*************************
 Title: PCA for Face Recognition
+***************************
 Keywords: PCA, Principal Component Analysis, Dimensionality Reduction, Face Recoginition.
-
+*********************************************************************************************
 Note: This is not a short set of steps for Face detection. This is just for Face recognition. That is, How to find if a New face, is a part of the database or not.
 
 1. Assume the training set has 100 face images each of size N*N pixels. eg 100*100 images.
